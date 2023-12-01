@@ -1,6 +1,5 @@
-# Bases1
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+# Proyecto angular lista de personajes DBZ
+Este proyecto contiene una interfaz para realizar un listado de personajes de dbz según sus estadisticas 
 
 ## Development server
 
