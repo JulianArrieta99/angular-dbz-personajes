@@ -1,26 +1,11 @@
-# Proyecto angular lista de personajes DBZ
-Este proyecto contiene una interfaz para realizar un listado de personajes de dbz según sus estadisticas 
+Proyecto Angular: Lista de Personajes de DBZ
+Este proyecto contiene una interfaz para realizar un listado de personajes de Dragon Ball Z según sus estadísticas.
 
-## Development server
+Servidor de desarrollo
+Ejecuta ng serve para iniciar un servidor de desarrollo. Navega a http://localhost:4200/. La aplicación se recargará automáticamente si realizas cambios en alguno de los archivos de origen.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Generación de código
+Ejecuta ng generate component nombre-del-componente para generar un nuevo componente. También puedes usar ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Compilación
+Ejecuta ng build para compilar el proyecto. Los archivos de compilación se almacenarán en el directorio dist/.
